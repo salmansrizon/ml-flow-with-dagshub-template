@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow-with-dogshub/ml-flow-with-dagshub-template/mlruns/0/9a34fbe993104c5f871b1aea94072943/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a34fbe993104c5f871b1aea94072943
+run_name: righteous-hen-322
+run_uuid: 9a34fbe993104c5f871b1aea94072943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713926665769
+status: 1
+tags: []
+user_id: salma

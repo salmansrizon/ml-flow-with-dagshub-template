@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow-with-dogshub/ml-flow-with-dagshub-template/mlruns/0/89b95510d6a642e6b238c437f4c7a41e/artifacts
+end_time: 1713926829057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89b95510d6a642e6b238c437f4c7a41e
+run_name: valuable-calf-158
+run_uuid: 89b95510d6a642e6b238c437f4c7a41e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713926824225
+status: 3
+tags: []
+user_id: salma
