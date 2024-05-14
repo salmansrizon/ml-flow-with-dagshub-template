@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/ml-flow-with-dagshub-template/mlruns/0/e8e79df665744681b2ccbfb29145a362/artifacts
+end_time: 1715662495614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8e79df665744681b2ccbfb29145a362
+run_name: capable-horse-292
+run_uuid: e8e79df665744681b2ccbfb29145a362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715662493404
+status: 3
+tags: []
+user_id: codespace
